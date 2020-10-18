@@ -33,3 +33,9 @@
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Awannaphasch2016&show_icons=true&theme=tokyonight" /></p>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#339](https://github.com/Roam-Research/issues/issues/339) in [Roam-Research/issues](https://github.com/Roam-Research/issues)
+2. 🗣 Commented on [#175](https://github.com/foambubble/foam/issues/175) in [foambubble/foam](https://github.com/foambubble/foam)
+3. 🗣 Commented on [#15](https://github.com/wmaurer/vscode-jumpy/issues/15) in [wmaurer/vscode-jumpy](https://github.com/wmaurer/vscode-jumpy)
+4. 🗣 Commented on [#76](https://github.com/ShyykoSerhiy/vscode-spotify/issues/76) in [ShyykoSerhiy/vscode-spotify](https://github.com/ShyykoSerhiy/vscode-spotify)
+5. ❗️ Opened issue [#175](https://github.com/foambubble/foam/issues/175) in [foambubble/foam](https://github.com/foambubble/foam)
+<!--END_SECTION:activity-->
