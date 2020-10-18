@@ -5,8 +5,7 @@
  /">YouTube channel</a> so we can geek out on Videos. I also do Live streams
   on my <a href="https://www.twitch.tv/awannaphasch2016">Twitch channel🎥</a
   >. I maintain a community on discord channels. You can find out more about
-   the community at <a href="https://github.com/Awannaphasch2016/Curated
-   -Shared-Knowledged-Base">Curated-Shared-Knowledged-Base</a> and <a href
+   the community at <a href="https://github.com/Awannaphasch2016/CuratedSharedKnowledgedBase">CuratedSharedKnowledgedBase</a> and <a href
    ="https://github.com/Awannaphasch2016/LifeLongProject">LifeLongProject</a
    >. I post article related to data science and finished projects from
     the communities I mentioned above. I post article on <a href="https://github.com/Awannaphasch2016/Curated
