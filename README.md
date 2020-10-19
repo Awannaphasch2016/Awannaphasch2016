@@ -8,8 +8,7 @@
    the community at <a href="https://github.com/Awannaphasch2016/CuratedSharedKnowledgedBase">CuratedSharedKnowledgedBase</a> and <a href
    ="https://github.com/Awannaphasch2016/LifeLongProject">LifeLongProject</a
    >. I post article related to data science and finished projects from
-    the communities I mentioned above. I post article on <a href="https://github.com/Awannaphasch2016/Curated
-   -Shared-Knowledged-Base">Medium</a>. 
+    the communities I mentioned above. I post article on <a href="https://medium.com/@awannaphasch2016">Medium</a>. 
      </p>
 
 <p align="center">
