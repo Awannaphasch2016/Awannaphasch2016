@@ -7,7 +7,7 @@
   >. I maintain a community on discord channels. You can find out more about
    the community at <a href="https://github.com/Awannaphasch2016/CuratedSharedKnowledgedBase">CuratedSharedKnowledgedBase</a> and <a href
    ="https://github.com/Awannaphasch2016/LifeLongProject">LifeLongProject</a
-   >. To see my other project, you can check out [Github](https://github.com/Awannaphasch2016). Lastly, I also post article related to data science and finished projects from
+   >. To see my other project, you can check out <a href="https://github.com/Awannaphasch2016">Github</a>. Lastly, I also post article related to data science and finished projects from
     the communities I mentioned above. I post article on <a href="https://medium.com/@awannaphasch2016">Medium</a>. 
      </p>
 
