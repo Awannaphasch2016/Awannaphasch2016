@@ -1,13 +1,13 @@
 <!--![Eddie Jaoude](https://user-images.githubusercontent.com/624760/87244208-890e1880-c433-11ea-8383-3ea0704104b7.png)--->
 
 <p align="center">I believe Open Source is for EVERYONE, yes YOU! Join me on
- my <a href="https://www.youtube.com/channel/UCCwN4L6RfshDt8PyKqSQEwg
- /">YouTube channel</a> so we can geek out on Videos. I also do Live streams
+ my <a href="https://www.youtube.com/channel/UCIV-MpzPPuS3wnU-s1BJUwQ?view_as=subscriber
+ ">YouTube channel</a> so we can geek out on Videos. I also do Live streams
   on my <a href="https://www.twitch.tv/awannaphasch2016">Twitch channel🎥</a
   >. I maintain a community on discord channels. You can find out more about
    the community at <a href="https://github.com/Awannaphasch2016/CuratedSharedKnowledgedBase">CuratedSharedKnowledgedBase</a> and <a href
    ="https://github.com/Awannaphasch2016/LifeLongProject">LifeLongProject</a
-   >. I post article related to data science and finished projects from
+   >. To see my other project, you can check out [Github](https://github.com/Awannaphasch2016). Lastly, I also post article related to data science and finished projects from
     the communities I mentioned above. I post article on <a href="https://medium.com/@awannaphasch2016">Medium</a>. 
      </p>
 
