@@ -18,7 +18,7 @@
   <a href="http://twitter.com/eddiejaoude">
     <img src="https://img.shields.io/twitter/follow/AnakWannaphasc1?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-  <a href="https://discord.com/invite/jZQs6Wu">
+  <a href="https://discord.gg/WvQkrEmm9k">
     <img src="https://img.shields.io/discord/764380848153296906?logo=discord&style=for-the-badge" />
   </a>
 </p>
